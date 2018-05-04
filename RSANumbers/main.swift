@@ -8,8 +8,6 @@
 
 import Foundation
 
-import Foundation
-
 // INPUT
 // Collect and filter user input here
 
